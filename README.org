@@ -1,0 +1,16 @@
+👉 [[https://github.com/sponsors/xenodium][Support this work via GitHub Sponsors]]
+
+* EverTime
+
+An ever-present floating clock for macOS
+
+See [[https://xenodium.com/recordscreenshot-windows-the-lazy-way][Recording and screenshotting windows: the lazy way]].
+
+#+HTML: <img src="https://raw.githubusercontent.com/xenodium/evertime/main/screenshots/simple.png" width="80%" />
+#+HTML: <img src="https://raw.githubusercontent.com/xenodium/evertime/main/screenshots/over.png" width="80%" />
+
+* Install
+** Homebrew
+#+begin_src sh
+  brew install --HEAD xenodium/evertime/evertime
+#+end_src
