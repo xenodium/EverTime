@@ -8,6 +8,7 @@ See [[https://xenodium.com/recordscreenshot-windows-the-lazy-way][Recording and 
 
 #+HTML: <img src="https://raw.githubusercontent.com/xenodium/evertime/main/screenshots/simple.jpg" width="80%" />
 #+HTML: <img src="https://raw.githubusercontent.com/xenodium/evertime/main/screenshots/over.jpg" width="80%" />
+#+HTML: <img src="https://raw.githubusercontent.com/xenodium/evertime/main/screenshots/demo.gif" width="80%" />
 
 * Install
 ** Homebrew
