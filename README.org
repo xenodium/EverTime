@@ -1,4 +1,4 @@
-👉 [[https://github.com/sponsors/xenodium][Support this work via GitHub Sponsors]]
+👉 [[https://github.com/sponsors/xenodium][Support my projects via GitHub Sponsors]]
 
 * EverTime
 
@@ -15,3 +15,5 @@ See [[https://xenodium.com/recordscreenshot-windows-the-lazy-way][Recording and 
 #+begin_src sh
   brew install --HEAD xenodium/evertime/evertime
 #+end_src
+
+👉 [[https://github.com/sponsors/xenodium][Support my projects via GitHub Sponsors]]
